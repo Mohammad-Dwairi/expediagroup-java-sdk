@@ -2,6 +2,7 @@
   "$schema": "https://raw.githubusercontent.com/googleapis/release-please/main/schemas/config.json",
   "release-type": "simple",
   "include-component-in-tag": true,
+  "bootstrap-sha": "298fe8f3dc86db3ee23218ee4a01a59210b8aee2",
   "packages": {
     "expediagroup-sdk-core": {
       "path": "expediagroup-sdk-core",
